@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /index.php?r=admin
+Sitemap: https://yourdomain.com/sitemap.xml

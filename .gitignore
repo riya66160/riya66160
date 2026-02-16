@@ -1,0 +1,5 @@
+.env
+storage/logs/*.log
+public/cache/*
+public/assets/uploads/*
+!.gitkeep
